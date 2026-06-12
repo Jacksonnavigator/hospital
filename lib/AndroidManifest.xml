@@ -1,0 +1,4 @@
+<application
+    android:enableOnBackInvokedCallback="true"
+    android:label="QmedCO"
+    ...
